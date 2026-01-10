@@ -17,7 +17,7 @@ export function Footer() {
 
           <div className="flex items-center gap-6">
             <a
-              href="https://github.com/solvecode"
+              href="https://github.com/solvecodeorg"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-white transition-colors"

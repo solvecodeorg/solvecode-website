@@ -7,7 +7,7 @@ export function Services() {
     <section id="services" className="py-20 px-6">
       <div className="max-w-7xl mx-auto">
         <SectionHeader
-          title="Our Services"
+          title="Our Services (contact for more)"
           subtitle="Comprehensive solutions for your digital needs"
         />
 
